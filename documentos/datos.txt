@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=p3X7HnuP5W4
+
+https://www.youtube.com/watch?v=tlkO9hhOqak&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl
+
+
+Learn PHP 7
+
+300.00
+
+This new book on PHP 7 introduces writing solid, secure, object-oriented code in the new PHP 7: you will create a complete three-tier application using a natural process of building and testing modules within each tier. This practical approach teaches you about app development and introduces PHP features when they are actually needed rather than providing you with abstract theory and contrived examples.
+
+Este nuevo libro sobre PHP 7 introduce la escritura de código sólido, seguro y orientado a objetos en el nuevo PHP 7: creará una aplicación completa de tres niveles utilizando un proceso natural de construcción y prueba de módulos dentro de cada nivel. Este enfoque práctico le enseña sobre el desarrollo de aplicaciones e introduce características de PHP cuando realmente se necesitan en lugar de proporcionarle teoría abstracta y ejemplos artificiales.
+
+https://d1w7fb2mkkr3kw.cloudfront.net...
+
+
+Professional ASP.NET MVC 5 
+
+429.00
+
+MVC 5 is the newest update to the popular Microsoft technology that enables you to build dynamic, data-driven websites. Like previous versions, this guide shows you step-by-step techniques on using MVC to best advantage, with plenty of practical tutorials to illustrate the concepts. It covers controllers, views, and models; forms and HTML helpers; data annotation and validation; membership, authorization, and security.
+
+MVC 5 es la actualización más reciente de la popular tecnología de Microsoft que le permite crear sitios web dinámicos basados ??en datos. Al igual que las versiones anteriores, esta guía le muestra técnicas paso a paso sobre el uso de MVC para la mejor ventaja, con muchos tutoriales prácticos para ilustrar los conceptos. Cubre controladores, vistas y modelos; formularios y ayudantes HTML; anotación y validación de datos; membresía, autorización y seguridad.
+
+https://images-na.ssl-images-amazon.c...
+
+
+Learning Vue.js 2
+
+1005.35
+
+* Learn how to propagate DOM changes across the website without writing extensive jQuery callbacks code.
+* Learn how to achieve reactivity and easily compose views with Vue.js and understand what it does behind the scenes.
+* Explore the core features of Vue.js with small examples, learn how to build dynamic content into preexisting web applications, and build Vue.js applications from scratch.
+
+
+* Aprenda cómo propagar los cambios DOM en el sitio web sin escribir un extenso código de devolución de llamada jQuery.
+* Aprenda a lograr reactividad y componga fácilmente las vistas con Vue.js y comprenda lo que hace detrás de escena.
+* Explore las características principales de Vue.js con pequeños ejemplos, aprenda a crear contenido dinámico en aplicaciones web preexistentes y cree aplicaciones Vue.js desde cero.
+
+https://d1w7fb2mkkr3kw.cloudfront.net...

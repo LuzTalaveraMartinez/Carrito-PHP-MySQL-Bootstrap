@@ -1,0 +1,13 @@
+correo: masterjino72@gmail.com
+contra: J@L@C@281172
+
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD"></script>
+
+
+<!-- Set up a container element for the button -->
+    <div id="paypal-button-container"></div>
+
+    <script>
+        // Render the PayPal button into #paypal-button-container
+        paypal.Buttons().render('#paypal-button-container');
+    </script>

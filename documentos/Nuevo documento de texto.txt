@@ -1,0 +1,8 @@
+error: las funcionalidades relacionales están desactivadas
+Publicado por tanello mondaca (1 intervención) el 31/05/2019 08:18:04
+Amigo tenía el mismo problema que tu!
+Lo que tienes que hacer en phpmyadmin es cambiar el MOTOR DE AMACENAMIENTO de cada tabla a "InnoDB" porque ese motor tiene activadas las relaciones así que probablemente lo tienes en uno diferente.
+
+Se cambia seleccionando la tabla -> en la pestaña "Mas" seleccionas "Operaciones" -> y ahí cambias el Motor de Almacenamiento
+
+Espero que te funcione, saludos
